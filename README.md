@@ -2,7 +2,6 @@
 Traditional CT scans often fail to detect occult fractures in cervical bones  leading to delayed diagnosis and severe complications like immobility and spine immobilization in the long run.
 
 My ML-based model leverages Edge Detection technology using the Sobel operator to enhance fracture visibility, enabling early and accurate detection. This innovation aims to revolutionize cervical injury diagnosis, ensuring timely medical intervention and better patient outcomes.
-# Cervical Fracture Detection using Sobel Operator
 
 ## 📌 Project Overview
 This project focuses on detecting cervical fractures using image processing techniques, specifically leveraging the **Sobel Operator** for edge detection. The goal is to develop a reliable and efficient method to assist in the early diagnosis of cervical fractures using medical imaging.
