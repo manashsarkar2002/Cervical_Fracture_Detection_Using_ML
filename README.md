@@ -20,7 +20,7 @@ Cervical spine fractures are critical injuries that require early detection to p
 - **OpenCV** (for image processing)
 - **NumPy & Matplotlib** (for visualization and data handling)
 - **Scikit-learn/TensorFlow** (if ML integration is used)
-- 
+
 
 ## 📸 Example Results
 Here’s an example of the Sobel Operator detecting edges in a medical image:
